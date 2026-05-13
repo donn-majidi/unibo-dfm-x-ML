@@ -3,4 +3,4 @@ __all__ = ["__version__", "doc"]
 
 def doc() -> None:
 	import webbrowser
-	webbrowser.open("https://github.com/donn-majidi/unibo-dfm/")
+	webbrowser.open("https://github.com/donn-majidi/unibo-dfm-x-ML/")
